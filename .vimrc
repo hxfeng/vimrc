@@ -471,3 +471,27 @@ let g:ctrlp_custom_ignore = '\v\.(exe|so|dll)$'
 let g:ctrlp_extensions = ['funky']
 
 let NERDTreeIgnore=['\.pyc']
+"  set background=dark
+"  set t_Co=256
+"  colorscheme desert
+"  if has("autocmd")
+"      au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+"  endif
+"  
+"  set nu
+"  set hlsearch
+"  set ignorecase
+"  set showmatch
+"  syntax on
+"  
+"  set tabstop=4
+"  set softtabstop=4
+"  set shiftwidth=4
+"  set expandtab
+"  
+"  set cursorline
+"  set autoread
+"  filetype on
+"  
+"  set ruler
+
